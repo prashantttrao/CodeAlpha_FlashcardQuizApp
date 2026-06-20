@@ -51,11 +51,6 @@ Gradle files:
 
 `app/build.gradle`
 
-## GitHub Repository Name
-
-Use this exact repository name for your internship upload:
-
-`CodeAlpha_FlashcardQuizApp`
 
 ## If Android Studio Asks to Install Anything
 
